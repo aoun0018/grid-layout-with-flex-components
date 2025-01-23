@@ -38,3 +38,6 @@ body {
 	max-width: 850px;
   }
   
+  .emoji p {
+    flex-grow: 1;
+  }
